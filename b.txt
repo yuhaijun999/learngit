@@ -1,1 +1,3 @@
 add b.txt
+
+master : modify b.txt
