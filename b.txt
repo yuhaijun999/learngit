@@ -7,3 +7,4 @@ exp :modi=fy b.txt
 jessica add a message
 jessica add a message
 jessica add a message
+issue-3:add b.txt
