@@ -10,3 +10,5 @@ john commit a message
 issue-2 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 master : add a.txt
 issue-3: add one message
+
+fix-C : add a.txt
